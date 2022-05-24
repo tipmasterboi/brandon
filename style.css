@@ -1,8 +1,13 @@
 body {
     background-image:url('banana.gif'); background-repeat:repeat;
     background: #aaaaaa;
-    margin-right: 400px;
-    margin-left: 400px; }
+    width: 1000px;
+    margin: auto;
+  }
+    
+  #Wrapper { 
+    margin: 0 auto; 
+}
   
   
   #h41 {
@@ -15,11 +20,8 @@ body {
     right: 25px;
   }
   
-  #h41 {
-    font-style
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    
+  #h3 {
+    text-align: center;
   
   }
   
@@ -53,7 +55,7 @@ body {
     color: white;
     padding-left: 20px;
     padding-right: 20px;
-    
+   
   }
   
    
@@ -87,6 +89,7 @@ body {
     border: 5px solid #555;
     vertical-align: bottom;
     <img align="lef
+
   }
   h3 {
     
