@@ -28,9 +28,7 @@ body {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    
-    border-radius: 25px;
-    order: 2px solid #7543;
+    font-size: 15px;
   }
   
   
