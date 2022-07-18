@@ -32,10 +32,6 @@ h3 {
   right: 25px;
 }
 
-#h3 {
-  text-align: center;
-
-}
 
 #para1 {
   font-style
@@ -78,14 +74,6 @@ h3 {
   margin-left: auto;
   margin-right: auto;
 }
-  
-
-<style>
-p {
-  background-image: url('img_girl.j');
-}
-</style>
-  
   
 
 
